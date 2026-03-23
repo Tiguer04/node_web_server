@@ -4,7 +4,7 @@
   "description": "Proyecto de web server para curso de NODEJS",
   "license": "ISC",
   "author": "Miguel Cardenas",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "dev": "nodemon src/app.js"
